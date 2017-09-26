@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tag_group_names">
+        <item>Traffic Laws</item>
+        <item>Murder Laws</item>
+        <item>Theft Laws</item>
+        <item>Cheating Laws</item>
+    </string-array>
+
+    <string-array name="front_page_list_1">
+        <item>Search</item>
+        <item>Most Popular</item>
+        <item>Bookmarks</item>
+        <item>Settings</item>
+        <item>Help</item>
+        <item>About</item>
+    </string-array>
+
+</resources>

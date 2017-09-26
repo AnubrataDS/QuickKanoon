@@ -1,0 +1,13 @@
+/n/Motor Vehicles Act 1988
+/s/3 r/w 181
+/o/Driving without a Valid License
+/p/Rs. 500/- and /or imprisonment ( 3 months)
+/s/5 r/w 180
+/o/Allowing vehicle to be driven by a person who does not possess a Valid License.
+/p/Rs. 1000/- and/or imprisonment ( 3 months)
+/s/130(3) r/w 177
+/o/Not carrying documents as required.
+/p/ Rs. 100/-
+/s/130 r/w 177 MVA
+/o/Driving without Valid Insurance.
+/p/Rs. 1000/- and/or imprisonment ( 3 months)

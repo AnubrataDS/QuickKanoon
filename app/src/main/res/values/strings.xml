@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QuickKanoon</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_search">Search</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_sections">Search results</string>
+    <string name="title_activity_show_law">Section details</string>
+    <string name="action_bookmark">action_bookmark</string>
+    <string name="title_activity_bookmarks">bookmarksActivity</string>
+    <string name="title_activity_settings">settingsActivity</string>
+    <string name="title_activity_help">helpActivity</string>
+    <string name="about">QuickKanoon is an app to serve as a quick-access handbook for Indian Law. Created by roommates Saurabh Mittal , Nabarun Nandy and Anubrata Das Sarma for the Hack-o-cracy hackathon</string>
+
+
+</resources>
