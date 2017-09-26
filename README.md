@@ -2,8 +2,6 @@
 
 ## An android app to help everyone understand the Indian laws easily
 
-WORK IN PROGRESS !
-
 Most of the citizens of India are not well-aware of their rights and laws.
 
 This makes them rely solely on lawyers in judicial matters , and often duped/cheated in the name of law.
